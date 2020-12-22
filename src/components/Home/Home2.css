@@ -1,0 +1,16 @@
+.home2-header {
+  display: flex;
+  /* height: 90vh; */
+  /* align-items: center; */
+  justify-content: center;
+  font-size: 3rem;
+}
+
+
+.home3-p {
+  display: flex;
+  /* height: 90vh; */
+  /* align-items: center; */
+  justify-content: center;
+  
+}

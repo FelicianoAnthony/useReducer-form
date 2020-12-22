@@ -1,0 +1,10 @@
+.val-menu.active {
+  margin-left:250px
+}
+.val-header {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
